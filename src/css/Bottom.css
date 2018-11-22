@@ -1,0 +1,6 @@
+.Bottom {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	box-shadow: rgba(0, 0, 0, 0.2) 0px -1px 10px, rgba(0, 0, 0, 0.2) 0px -1px 10px;
+}
